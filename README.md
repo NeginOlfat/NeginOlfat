@@ -21,7 +21,7 @@ I’m a dedicated developer who thrives on solving challenging problems and cont
 I value collaboration and open-source contributions. If you'd like to share ideas, discuss projects, or simply connect, feel free to reach out!
 
 - **GitHub:** [@NeginOlfat](https://github.com/NeginOlfat)  
-- **Email:** [negina2316@gmail.com]
+- **Email:** negina2316@gmail.com
 
 Thanks for visiting my profile—happy coding and let’s build something amazing together!
 
