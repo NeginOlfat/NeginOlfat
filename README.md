@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 </p>
 
 ## 🚀 Featured Projects
@@ -69,17 +69,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=NeginOlfat&show_icons=true&theme=prussian&hide_border=true"
-    alt="Negin's GitHub statistics"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeginOlfat&layout=compact&theme=prussian&hide_border=true"
-    alt="Negin's most-used languages"
-  />
+<p align="center">  
+  ![Negin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=NeginOlfat&show_icons=true&theme=radical)
 </p>
 
 ## 🔗 Socials
