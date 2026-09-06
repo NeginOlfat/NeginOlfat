@@ -34,11 +34,11 @@
     <td width="33%" align="center">
       <h3>🎵 Music Player</h3>
       <p>A mobile music player application.</p>
-      <a href="https://github.com/NeginOlfat/MusicPlayer">
+      <!-- <a href="https://github.com/NeginOlfat/MusicPlayer">
         <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Music Player repository" />
-      </a>
+      </a> -->
       <br /><br />
-      <a href="https://github.com/NeginOlfat/MusicPlayer/releases/tag/v1.4">
+      <a href="https://cafebazaar.ir/app/com.negin.musicplayer">
         <img src="https://img.shields.io/badge/Download-v1.4-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download Music Player v1.4" />
       </a>
     </td>
@@ -56,11 +56,11 @@
     <td width="33%" align="center">
       <h3>📚 504 Essential Words</h3>
       <p>An educational vocabulary-learning application.</p>
-      <a href="https://github.com/NeginOlfat/504-words">
+      <!-- <a href="https://github.com/NeginOlfat/504-words">
         <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="504 Words repository" />
-      </a>
+      </a> -->
       <br /><br />
-      <a href="https://github.com/NeginOlfat/504-words/releases/tag/v1.0">
+      <a href="https://myket.ir/app/com.words504">
         <img src="https://img.shields.io/badge/Download-v1.0-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download 504 Words v1.0" />
       </a>
     </td>
