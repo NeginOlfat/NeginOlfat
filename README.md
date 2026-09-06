@@ -67,11 +67,17 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
 
+
+<!--
+## 📊 GitHub Stats
 <p align="center">  
-  ![Negin's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=NeginOlfat&show_icons=true&theme=radical)
-</p>
+  <img
+    height="180"
+    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NeginOlfat&layout=compact&theme=prussian&hide_border=true](https://github-readme-stats-fast.vercel.app/api?username=NeginOlfat&show_icons=true&theme=radical"
+    alt="Negin's GitHub stats"
+  />
+</p> -->
 
 ## 🔗 Socials
 
